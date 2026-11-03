@@ -306,16 +306,7 @@ Como continuidade da solução, podem ser consideradas:
 -   Ampliar os mecanismos de auditoria e rastreabilidade dos dados.
 -   Evoluir os recursos de exploração e detalhamento do dashboard.
 
-## 11. Vídeo de apresentação técnica
-
-**Defesa técnica:** \[Inserir link público do Google Drive\]
-
-A apresentação demonstra a execução do pipeline, os critérios de
-limpeza, a arquitetura do banco, as consultas SQL, as medidas e
-visualizações do Power BI, o planejamento das Sprints e as oportunidades
-de evolução.
-
-------------------------------------------------------------------------
+## ------------------------------------------------------------------------
 
 **Autor:** Henrique Luan da Silveira\
 **Projeto Avaliativo -- Análise de Dados com Python \| Módulo 2**\
