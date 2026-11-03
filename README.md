@@ -140,12 +140,6 @@ No Power BI, o calendário é criado com DAX e possui atributos de ano,
 mês, trimestre e ordenação temporal. A hierarquia automática de datas
 não deve ser utilizada.
 
-**Diagrama da modelagem:**\
-![Modelo dimensional](docs/img/modelo_estrela.png)
-
-> Inclua a captura real do modelo com o nome `modelo_estrela.png` na
-> pasta `docs/img/`. Se não for incluí-la, retire a referência acima.
-
 ## 6. Análises de negócio no Power BI
 
 O dashboard foi estruturado para responder às seis perguntas
